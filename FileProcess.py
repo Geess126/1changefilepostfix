@@ -26,7 +26,7 @@ path=r"G:\movie\电影2\x.zip"
 path=r"G:\movie\电影2\x2.zip"
 path=r"G:\movie\电影2\x3.zip"
 path=r"G:\movie\电影2\x4.zip"
-
+print("修改")
 
 outputpath=r"G:\movie\电影2"
 files = walkFile(path)
